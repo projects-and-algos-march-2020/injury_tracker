@@ -1,5 +1,4 @@
 # Injury Tracker
-Injury Tracker
 
 
 MVP Features
