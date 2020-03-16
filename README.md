@@ -1,4 +1,4 @@
-# injury_tracker
+# Injury Tracker
 Injury Tracker
 
 
