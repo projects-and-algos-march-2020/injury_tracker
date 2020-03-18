@@ -5,16 +5,18 @@
 MVP Features
 
  - Login / Reg (SQLAlchemy/ORM)
- - User create / store a new injury 
- - Bootstrap 
+ - User create / store a new user injury 
+ - User view table of user injuries
+ - View table of all injuries from all users
+ - View table of injury images from all users
+ - Navigation to all four pages
+ - Bootstrap styling for simplicity 
  
  
-Backlog
+Stretch Features
 
- - Table view of injuries by user
  - User voting on injury severity
  - Users commeting on other users injuries
-- Shared injuries among users (stretch)
-- Photo hosting / API (stretch)
-- Host on Azure (stretch)
+ - Shared injuries among users (stretch)
+ - Host on Azure (stretch)
 
